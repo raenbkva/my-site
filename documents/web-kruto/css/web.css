@@ -1,0 +1,27 @@
+.orange {
+  background-color: orangered;
+  height: 5px;
+  width: 10000px;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  right: 0px;
+}
+.gray {
+  background-color: lightgrey;
+}
+.display {
+  display: inline-block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.had {
+  text-decoration:none;
+  color: black;
+  margin-left: auto;
+  margin-right: auto;
+}
+.had:hover {
+  text-decoration:underline;
+}
